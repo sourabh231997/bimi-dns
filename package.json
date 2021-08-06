@@ -1,0 +1,20 @@
+{
+  "name": "bimi-dns",
+  "version": "1.0.1",
+  "description": "One stop solution for all BIMI Problems. This package includes fetching of bimi record, parsing the provided/fetched record, validation of BIMI record, generating a new BIMI record",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sourabh Ghildiyal",
+  "license": "ISC",
+  "maintainers": [
+		{
+			"name": "Sourabh Ghildiyal",
+			"email": "sourabh.ghildiyal01@gmail.com"
+		}
+	],
+  "dependencies": {
+  }
+}
